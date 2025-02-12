@@ -10,5 +10,5 @@ This Is A Simple C++ Application For Managing Student Grades . The Program Allow
 - Arrays
 - Functions
 # About The Developer 
- ** MahmoUD Tarek **
+ ** Mahmoud Tarek **
 Feel Free To Contribute Or Provide Feedback !
